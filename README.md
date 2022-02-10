@@ -4,7 +4,7 @@ This repository contains my study material and notes from the [Udacity Agile Sof
 
 Useful links
 
-### Agile
+## Agile
 * https://manifesto.co.uk/kanban-vs-scrum-vs-xp-an-agile-comparison/
 
 ### Estimating story points
