@@ -11,3 +11,4 @@ This repository contains my study material and notes from the [Udacity Agile Sof
 * https://paulhammant.com/2012/04/24/call-to-arms-average-story-sizes-of-one-day/
 * https://dojoconsortium.org/docs/work-decomposition/work-breakdown/
 * https://blogs.itemis.com/en/spidr-five-simple-techniques-for-a-perfectly-split-user-story
+* https://roadmunk.com/guides/product-prioritization-techniques-product-managers/
