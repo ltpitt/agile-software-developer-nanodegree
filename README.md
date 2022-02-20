@@ -13,3 +13,6 @@ This repository contains my study material and notes from the [Udacity Agile Sof
 * https://blogs.itemis.com/en/spidr-five-simple-techniques-for-a-perfectly-split-user-story
 * https://roadmunk.com/guides/product-prioritization-techniques-product-managers/
 * https://everydayagile.com/an-easy-way-to-explain-relative-estimation-9d2245d01965
+
+### Sprint Planning
+* https://www.atlassian.com/agile/scrum/sprint-planning
