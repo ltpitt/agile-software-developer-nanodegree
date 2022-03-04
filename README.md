@@ -6,6 +6,7 @@ This repository contains my study material and notes from the [Udacity Agile Sof
 
 ### Agile
 * https://manifesto.co.uk/kanban-vs-scrum-vs-xp-an-agile-comparison/
+* https://youtu.be/a-BOSpxYJ9M
 
 ### Estimating story points
 * https://paulhammant.com/2012/04/24/call-to-arms-average-story-sizes-of-one-day/
