@@ -17,3 +17,6 @@ This repository contains my study material and notes from the [Udacity Agile Sof
 
 ### Sprint Planning
 * https://www.atlassian.com/agile/scrum/sprint-planning
+
+### Books
+* Modern Software Engineering, by Dave Farley
