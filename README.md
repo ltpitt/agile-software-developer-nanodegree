@@ -20,3 +20,4 @@ This repository contains my study material and notes from the [Udacity Agile Sof
 
 ### Books
 * Modern Software Engineering, by Dave Farley
+* Escape Velocity: Better Metrics for Agile Teams, by Doc Norton
