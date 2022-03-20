@@ -1,0 +1,15 @@
+Build Up Confidence in a new team
+* Prioritize easier work
+* Build up team confidence
+* Tackle riskier items later
+
+Phase		Team effectiveness 
+Forming		medium
+Storming	low
+Norming		medium
+Performing	high
+
+
+https://www.atlassian.com/blog/teamwork/navigate-tuckman-stages-of-team-development
+
+https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
